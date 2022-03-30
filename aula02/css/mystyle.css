@@ -1,0 +1,12 @@
+h1,h2,h3{
+    color: #796294;
+    background:  rgb(125, 125, 223);
+}
+h4,h5,h6{
+    color:rgb(170, 255, 191);
+    background: rgb(141, 185, 141);
+}
+.ficaverde{
+    color: #4a738f;
+    background: rgb(37, 150, 190)
+}
