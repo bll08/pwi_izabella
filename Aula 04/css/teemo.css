@@ -1,0 +1,49 @@
+
+h1 {
+    font-size: 50px;
+    color: rgba(16, 16, 169, 0.638);
+    font-family: Papyrus ;
+    text-align: center;
+    
+}
+
+.paragrafo {
+    font-size: 25px;
+    font-family: 'Courier New', monospace ;
+    border-style: outset;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(240, 177, 238));
+    text-align: center;
+    
+    
+    
+}
+p{
+    font-size: 20px;
+    font-family: 'Courier New', monospace;
+    
+}
+
+.imagezinha{
+    width: 400px;
+    
+}
+
+ul{ 
+    font-family: Lucida Handwriting;
+    list-style-type: circle;
+    background: #fafdff;
+    color: rgb(218, 79, 132);
+    margin: 5px;
+}
+
+ol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+     margin-left: 35px;
+}
+
+
