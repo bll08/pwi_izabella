@@ -1,0 +1,98 @@
+body{  
+        /*imagem na página*/
+     background-image: url(../img/jimin.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: auto;
+     display: block;
+ 
+    
+     text-align: center;
+     margin-top: 50px;
+     margin-left: 80px;
+     margin-right: 80px;
+
+}
+
+h2{
+    text-align: center;
+    margin-top: auto;
+    font-family:  cursive;
+    padding: 15px 50px;
+     
+}
+
+       /*textos*/      
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger 20px;
+    text-shadow: 2px 3px 4px #0a0a0a   
+}
+
+       /*texto buton*/
+.span{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger 20px;
+}
+
+ /*estilizando botao*/
+button{
+    margin-top: 10px;
+    padding: 10px 24px;
+    box-shadow: 0 8px 16px 0 rgb(252, 165, 226), 0 6px 20px 0 rgba(228, 99, 174, 0.19);
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    transition: all 0.5s;
+}
+button:hover {
+    background-color: #636363;
+    transform: scale(1.05);
+}
+
+button span {
+    transition: 0.10s;
+}
+
+button:hover span {
+    padding: 5px;
+}  
+
+    /*estilizando botão²*/
+.botao{
+    margin-top: 30px;
+    border: none;
+    padding: 10px 24px;
+    
+    box-shadow: 0 8px 16px 0 rgb(252, 165, 226), 0 6px 20px 0 rgba(241, 93, 180, 0.19); 
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.5s; 
+}
+.botao:hover {
+    background-color: #636363;
+    transform: scale(1.05);
+}
+
+.botao span {
+    transition: 0.10s;
+}
+
+.botao:hover span {
+    padding: 5px;
+}  
+
+        /*div*/
+.container{
+    position: relative;
+    padding: 200px 200px;
+    background: rgba(255, 254, 254, 0.178);
+    border-radius: 15px;
+    
+}
+
+
+   
+

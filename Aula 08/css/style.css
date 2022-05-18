@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/back³.jpg);
+    background-repeat: no-repeat;
+}
+h2{
+    text-align: center; 
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.p1{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p2{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+div{
+    font-size: 17px;
+    font-family: tahoma;
+    border-radius: 4px;
+}
